@@ -109,21 +109,6 @@ ros2-gpu-dev/
 
 MIT License © 2024 Randhir Dinesh
 
----
-
-## 🤝 Contribute
-
-Feel free to fork, clone, and PR to improve the stack with:
-- ROS 2 workspace auto-clone
-- RViz + simulation environments
-- More launch scripts
-
----
-
-
-
-Let me know if you'd like:
-- A pre-created GitHub repo zip folder
 - This pushed to your GitHub via a new repo
 - A version with RViz2, ZED SDK, or custom robot launch included
 
